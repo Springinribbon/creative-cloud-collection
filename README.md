@@ -4,10 +4,8 @@
 
 ### *Complete set of professional tools for design, graphics, and video editing*
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/creative-tools-collection?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/creative-tools-collection?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/yourusername/creative-tools-collection/total?style=for-the-badge)
+
 
 </div>
 
